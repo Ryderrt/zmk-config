@@ -1,0 +1,11 @@
+file_format: "1"
+id: think
+name: think
+type: shield
+url: https://github.com/Ryderrt/zmk-config/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - think_left
+  - think_right

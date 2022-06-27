@@ -1,0 +1,6 @@
+config SHIELD_THINK_LEFT
+	def_bool $(shields_list_contains,think_left)
+
+config SHIELD_THINK_RIGHT
+	def_bool $(shields_list_contains,think_right)
+
